@@ -22,6 +22,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 iFood customer portfolio reveals that 55% of customers fall into low-engagement, At-Risk and Lost customer segments, with the Loyal Customer segment generating a significant portion of total revenue at 42%. The following sections will enhance customer profiling and explore ways to personalize marketing campaigns to inform targeting strategies and budget allocation.
 
 Below is the overview page from the Tableau dashboard and more examples are included throughout the report. The entire interactive dashboard can be viewed here.
+
 ![Tableau_dashboard_overview_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%20and%20Graphs/Executive_summary_dashboard.png)
 
 ## Insights Deep Dive
@@ -63,4 +64,5 @@ Throughout the analysis, multiple assumptions were made to manage the challenges
 * Used a combined RFM score to create broader segments rather than concatenating recency, frequency, and monetary to create granular classifications.
 
 
-Visit my portfolio at [www.stevenhiek.com]().
+
+**Visit my portfolio at [www.stevenhiek.com]().**
