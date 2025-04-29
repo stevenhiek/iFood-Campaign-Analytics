@@ -31,7 +31,7 @@ Below is the overview page from the Tableau dashboard and more examples are incl
 * While the Top Customer segment holds the highest Gross CLV of $1,303, the **Loyal Customer segment contributes the largest share of total revenue at 42%**. 
 * Despite Brazil’s strong cultural emphasis on family, regression analysis (R² = 0.71) shows that **higher income, absence of family, and older age are strongly associated with an increase in total customer spend.**
 
-![Customer_segmentation_pic](<align="center" src="https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%20and%20Graphs/Customer_demographics.png">)
+![Customer_segmentation_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%20and%20Graphs/Customer_demographics.png)
 
 ### Campaign Performance
 * Campaign respondents have an **average total spend of $1,023, which is 2.3 times greater than that of non-respondents.**
