@@ -1,4 +1,5 @@
 # Brazil’s Hidden Behemoth: iFood Campaign Analytics
+![iFood_Hero_Pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/ifood%20project%20pic.png)
 
 ## Project Background
 iFood is the leading food delivery platform in Brazil, surpassing American counterparts like DoorDash and Uber Eats. Founded in 2011, iFood connects restaurants, couriers, and customers through a seamless app experience, offering on-demand food and grocery delivery while commanding over 80% of Brazil’s market share. 
@@ -31,7 +32,7 @@ Below is the overview page from the Tableau dashboard and more examples are incl
 * While the Top Customer segment holds the highest Gross CLV of $1,303, the **Loyal Customer segment contributes the largest share of total revenue at 42%**. 
 * Despite Brazil’s strong cultural emphasis on family, regression analysis (R² = 0.71) shows that **higher income, absence of family, and older age are strongly associated with an increase in total customer spend.**
 
-![Customer_segmentation_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%20and%20Graphs/Customer_demographics.png)
+![Customer_segmentation_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/Customer_demographics.png)
 
 ### Campaign Performance
 * Campaign respondents have an **average total spend of $1,023, which is 2.3 times greater than that of non-respondents.**
@@ -39,7 +40,7 @@ Below is the overview page from the Tableau dashboard and more examples are incl
 * Overall performance across campaigns shows the **lowest CPC at $6.29 within the Loyal Customer segment**, while the Top Customer segment records a significantly higher CPC of $17.86.
 * While CPC remained relatively consistent across most campaigns, **Campaign 2 has a sharp increase in CPC at $38.46**, whereas Campaign 4 at the lowest CPC with $6.45.
 
-![Campaign_performance_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%20and%20Graphs/Campaign_performance.png)
+![Campaign_performance_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/Campaign_performance.png)
 
 ### Purchasing Behavior
 * Total customer spend on regular products is fairly stable across customer segments, resulting in a **total spend of 92% on regular products and 8% on premium products for campaign respondents.**
@@ -47,7 +48,7 @@ Below is the overview page from the Tableau dashboard and more examples are incl
 * **Physical stores are the most preferred purchase channel at 46% across customer segments,** followed by website purchases at 33%.
 * Campaign respondents have a low affinity to discount purchases at 12% across customer segments while the **discount purchases accounts for 21% in non-respondents.**
 
-![Purchasing_behavior_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%20and%20Graphs/Purchasing_Behavior.png)
+![Purchasing_behavior_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/Purchasing_Behavior.png)
 
 ## Recommendations
 Based on the uncovered insights, the following recommendations have been provided:
