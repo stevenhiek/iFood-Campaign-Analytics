@@ -65,4 +65,4 @@ Throughout the analysis, multiple assumptions were made to manage the challenges
 
 
 
-**Visit my portfolio at [www.stevenhiek.com]().**
+**Visit my [LinkedIn](https://www.linkedin.com/in/stevenhiek/).**
