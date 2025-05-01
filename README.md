@@ -39,7 +39,7 @@ Below is the overview page from the Tableau dashboard and more examples are incl
 * Overall performance across campaigns shows the **lowest CPC at $6.29 within the Loyal Customer segment**, while the Top Customer segment records a significantly higher CPC of $17.86.
 * While CPC remained relatively consistent across most campaigns, **Campaign 2 has a sharp increase in CPC at $38.46**, whereas Campaign 4 at the lowest CPC with $6.45.
 
-![Campaign_performance_pic](test)
+![Campaign_performance_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%20and%20Graphs/Campaign_performance.png)
 
 ### Purchasing Behavior
 * Total customer spend on regular products is fairly stable across customer segments, resulting in a **total spend of 92% on regular products and 8% on premium products for campaign respondents.**
