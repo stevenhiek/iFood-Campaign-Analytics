@@ -1,5 +1,5 @@
 # Brazil’s Hidden Behemoth: iFood Campaign Analytics
-![iFood_Hero_Pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/ifood%20project%20pic.png)
+![iFood_Hero_Pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/ifood_project_pic.png)
 
 ## Project Background
 iFood is the leading food delivery platform in Brazil, surpassing American counterparts like DoorDash and Uber Eats. Founded in 2011, iFood connects restaurants, couriers, and customers through a seamless app experience, offering on-demand food and grocery delivery while commanding over 80% of Brazil’s market share. 
@@ -24,7 +24,7 @@ iFood customer portfolio reveals that 55% of customers fall into low-engagement,
 
 Below is the overview page from the Tableau dashboard and more examples are included throughout the report. The entire Tableau interactive dashboard can be viewed [here](https://public.tableau.com/app/profile/steven.hiek/viz/iFoodCampaignAnalytics/iFoodDashboard).
 
-![Tableau_dashboard_overview_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%20and%20Graphs/Executive_summary_dashboard.png)
+![Tableau_dashboard_overview_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/Executive_summary_dashboard.png)
 
 ## Insights Deep Dive
 ### Customer Segmentation
