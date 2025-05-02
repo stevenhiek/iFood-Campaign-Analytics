@@ -60,8 +60,8 @@ Based on the uncovered insights, the following recommendations have been provide
 ## Assumptions and Caveats
 Throughout the analysis, multiple assumptions were made to manage the challenges with the data. These assumptions and caveats are noted below:
 * Sample data is representative of the iFood’s customer base as a whole. 
-* Campaigns costs were the same across campaigns since data does not have campaign costs; campaign cost dummy variable was used to help illustrate cost per conversion. 
-* Gross customer lifetime value was used instead of true customer lifetime value with profit per customer.
+* Campaigns costs were the same across campaigns since data does not have campaign costs; campaign cost dummy variable was used to help illustrate cost per campaign conversion. 
+* Gross customer lifetime value was used instead of customer lifetime value with profit per customer.
 * Used a combined RFM score to create broader segments rather than concatenating recency, frequency, and monetary to create granular classifications.
 
 
