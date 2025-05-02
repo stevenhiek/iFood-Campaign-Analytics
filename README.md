@@ -19,10 +19,10 @@ The dataset includes customer demographics, purchasing behavior, and information
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. The data cleaning and data quality checks can be found in the worksheets, *Data Cleaning* and *Data Quality Checks*, [here](https://github.com/stevenhiek/iFood-Campaign-Analytics/tree/main/Analysis).
 
 ## Executive Summary
-### Overview of Finding
+### Overview of Findings
 iFood customer portfolio reveals that 55% of customers fall into low-engagement, At-Risk and Lost customer segments, with the Loyal Customer segment generating a significant portion of total revenue at 42%. The following sections will enhance customer profiling and explore ways to personalize marketing campaigns to inform targeting strategies and budget allocation.
 
-Below is the overview page from the Tableau dashboard and more examples are included throughout the report. The entire Tableau interactive dashboard can be viewed [here](https://public.tableau.com/app/profile/steven.hiek/viz/iFoodCampaignAnalytics/iFoodDashboard).
+Below is the overview page from the Tableau dashboard and more examples are included throughout the report. View the entire interactive [Tableau dashboard](https://public.tableau.com/app/profile/steven.hiek/viz/iFoodCampaignAnalytics/iFoodDashboard).
 
 ![Tableau_dashboard_overview_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/Executive_summary_dashboard.png)
 
@@ -60,8 +60,8 @@ Based on the uncovered insights, the following recommendations have been provide
 ## Assumptions and Caveats
 Throughout the analysis, multiple assumptions were made to manage the challenges with the data. These assumptions and caveats are noted below:
 * Sample data is representative of the iFood’s customer base as a whole. 
-* Campaigns costs were the same across campaigns since data does not have campaign costs; campaign cost dummy variable was used to help illustrate cost per conversion. 
-* Gross customer lifetime value was used instead of true customer lifetime value with profit per customer.
+* Campaigns costs were the same across campaigns since data does not have campaign costs; campaign cost dummy variable was used to help illustrate cost per campaign conversion. 
+* Gross customer lifetime value was used instead of customer lifetime value with profit per customer.
 * Used a combined RFM score to create broader segments rather than concatenating recency, frequency, and monetary to create granular classifications.
 
 
