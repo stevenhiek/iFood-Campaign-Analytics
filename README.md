@@ -1,4 +1,4 @@
-# Brazil’s Hidden Behemoth: iFood Campaign Analytics
+# iFood Campaign Analytics: Brazil’s Hidden Behemoth
 ![iFood_Hero_Pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/ifood_project_pic.png)
 
 ## Project Background
