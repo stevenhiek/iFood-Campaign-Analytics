@@ -8,7 +8,7 @@ The company has data on existing customer demographics, marketing campaigns, and
 
 Insights and recommendations are provided on the following key areas:
 * **Customer Segmentation**: Evaluation of customer segmentation through Recency, Frequency, and Monetary (RFM) analysis, incorporating Gross Customer Lifetime Value (CLV) and regression analysis based on demographic attributes.
-* **Campaign Performance**: An analysis of marketing campaign effectiveness, focusing on total customer spend among respondents and Cost per Conversion (CPC) across customer segments.
+* **Campaign Performance**: An analysis of marketing campaign effectiveness, focusing on total customer spend, Cost per Conversion (CPC), and return on investment (ROI).
 * **Purchasing Behavior**: A review of purchasing behavior patterns across key customer segments, highlighting preferences by product offering, product category, purchase channel, and discount affinity.
 
 The Excel workbook used to inspect, clean, and analyze the data can be found [here](https://github.com/stevenhiek/iFood-Campaign-Analytics/tree/main/Analysis).
