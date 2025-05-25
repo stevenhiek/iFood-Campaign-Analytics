@@ -37,8 +37,8 @@ Below is the overview page from the Tableau dashboard and more examples are incl
 ### Campaign Performance
 * Campaign respondents have an **average total spend of $1,023, which is 2.3 times greater than that of non-respondents.**
 * The **Loyal Customer segment has the highest share of campaign respondents at 37%**, followed by the At-Risk segment at 27%.
-* Overall performance across campaigns shows the **lowest CPC at $6.29 within the Loyal Customer segment**, while the Top Customer segment records a significantly higher CPC of $17.86.
-* While CPC remained relatively consistent across most campaigns, **Campaign 2 has a sharp increase in CPC at $38.46**, whereas Campaign 4 at the lowest CPC with $6.45.
+* Overall performance across campaigns shows the **lowest CPC at $63 within the Loyal Customer segment**, while the Top Customer segment records a significantly higher CPC of $179.
+* •	Campaign 2 has the lowest return on investment of 0.5, whereas **Campaign 5 has the highest return on investment of 4.3.**
 
 ![Campaign_performance_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/Campaign_performance.png)
 
@@ -53,8 +53,8 @@ Below is the overview page from the Tableau dashboard and more examples are incl
 ## Recommendations
 Based on the uncovered insights, the following recommendations have been provided:
 * With 55% of customers in the At-Risk and Lost segments, there is an **opportunity to diversify the customer portfolio by reactivating lapsed users and expanding engagement across underrepresented segments** through re-engagement campaigns, loyalty perks, or win-back offers.
-* **Target campaigns to the Loyal Customer segment featuring exclusive offers, referral incentives, and cross-sell opportunities** to effectively drive further growth and maximize return on investment, since this high-value segment drives 42% of revenue and maintains a low CPC of $6.29.
-* **Personalize marketing campaigns by leveraging key demographic drivers on customer spend – higher income, absence of family, and older age (R² = 0.71)** – while avoiding the high CPC of $38.46 in Campaign 2 by optimizing messaging, audience selection, and channel use to reduce CPC and improve conversion. 
+* **Target campaigns to the Loyal Customer segment featuring exclusive offers, referral incentives, and cross-sell opportunities** to effectively drive further growth and maximize return on investment, since this high-value segment drives 42% of revenue and maintains a low CPC of $63.
+* **Personalize marketing campaigns by leveraging key demographic drivers on customer spend – higher income, absence of family, and older age (R² = 0.71)** – while avoiding the low ROI (0.5) of Campaign 2 and following the success of the high ROI (4.3) of Campaign 5 by optimizing messaging, audience selection, and channel use to reduce CPC and improve conversion.
 * Opportunity to capitalize on the 46% customer preference in purchasing through physical stores by **enhancing in-store marketing and visibility with targeted signage, displays, and location-based promotions.**  
 
 ## Assumptions and Caveats
