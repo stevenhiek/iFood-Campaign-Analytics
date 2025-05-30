@@ -2,14 +2,12 @@
 ![iFood_Hero_Pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/ifood_project_pic.png)
 
 ## Executive Summary
-iFood customer portfolio reveals that 55% of customers fall into low-engagement, At-Risk and Lost customer segments, with the Loyal Customer segment generating a significant portion of total revenue at 42%. The following sections will enhance customer profiling and explore ways to personalize marketing campaigns to inform targeting strategies and budget allocation.
+iFood is the leading food delivery platform in Brazil, surpassing American counterparts like DoorDash and Uber Eats. Founded in 2011, iFood connects restaurants, couriers, and customers through a seamless app experience, offering on-demand food and grocery delivery while commanding over 80% of Brazil’s market share. The company's customer portfolio reveals that 55% of customers fall into low-engagement, At-Risk and Lost customer segments, with the Loyal Customer segment generating a significant portion of total revenue at 42%. The following sections will enhance customer profiling and explore ways to personalize marketing campaigns to inform targeting strategies and budget allocation.
 
 Below is the overview page from the Tableau dashboard and more examples are included throughout the report. View the entire interactive [Tableau dashboard](https://public.tableau.com/app/profile/steven.hiek/viz/iFoodCampaignAnalytics/iFoodDashboard).
 
 ![Tableau_dashboard_overview_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/Executive_summary_dashboard.png)
-## Project Background
-iFood is the leading food delivery platform in Brazil, surpassing American counterparts like DoorDash and Uber Eats. Founded in 2011, iFood connects restaurants, couriers, and customers through a seamless app experience, offering on-demand food and grocery delivery while commanding over 80% of Brazil’s market share. 
-
+## Background
 The company has data on existing customer demographics, marketing campaigns, and purchasing behavior that have been previously underutilized. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights to improve iFood’s marketing campaigns through maintaining customer retention. The analysis is intended to inform strategic decisions made by key stakeholders in the Marketing and Sales department.
 
 Insights and recommendations are provided on the following key areas:
