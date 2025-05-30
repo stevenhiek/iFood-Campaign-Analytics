@@ -1,6 +1,13 @@
 # iFood Campaign Analytics: Brazil’s Hidden Behemoth
 ![iFood_Hero_Pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/ifood_project_pic.png)
 
+## Executive Summary
+### Overview of Findings
+iFood customer portfolio reveals that 55% of customers fall into low-engagement, At-Risk and Lost customer segments, with the Loyal Customer segment generating a significant portion of total revenue at 42%. The following sections will enhance customer profiling and explore ways to personalize marketing campaigns to inform targeting strategies and budget allocation.
+
+Below is the overview page from the Tableau dashboard and more examples are included throughout the report. View the entire interactive [Tableau dashboard](https://public.tableau.com/app/profile/steven.hiek/viz/iFoodCampaignAnalytics/iFoodDashboard).
+
+![Tableau_dashboard_overview_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/Executive_summary_dashboard.png)
 ## Project Background
 iFood is the leading food delivery platform in Brazil, surpassing American counterparts like DoorDash and Uber Eats. Founded in 2011, iFood connects restaurants, couriers, and customers through a seamless app experience, offering on-demand food and grocery delivery while commanding over 80% of Brazil’s market share. 
 
@@ -17,14 +24,6 @@ The Excel workbook used to inspect, clean, and analyze the data can be found [he
 The dataset includes customer demographics, purchasing behavior, and information from 5 marketing campaigns. It has 2205 total rows with each row corresponding to a unique customer that was randomly selected. There were 184 duplicate rows that were removed, resulting in 2021 unique customer rows within the data. The raw data, prior to cleaning, can be found [here](https://github.com/stevenhiek/iFood-Campaign-Analytics/tree/main/Data).
 
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. The data cleaning and data quality checks can be found in the worksheets, *Data Cleaning* and *Data Quality Checks*, [here](https://github.com/stevenhiek/iFood-Campaign-Analytics/tree/main/Analysis).
-
-## Executive Summary
-### Overview of Findings
-iFood customer portfolio reveals that 55% of customers fall into low-engagement, At-Risk and Lost customer segments, with the Loyal Customer segment generating a significant portion of total revenue at 42%. The following sections will enhance customer profiling and explore ways to personalize marketing campaigns to inform targeting strategies and budget allocation.
-
-Below is the overview page from the Tableau dashboard and more examples are included throughout the report. View the entire interactive [Tableau dashboard](https://public.tableau.com/app/profile/steven.hiek/viz/iFoodCampaignAnalytics/iFoodDashboard).
-
-![Tableau_dashboard_overview_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/Executive_summary_dashboard.png)
 
 ## Insights Deep Dive
 ### Customer Segmentation
