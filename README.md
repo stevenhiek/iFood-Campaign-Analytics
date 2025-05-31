@@ -4,7 +4,7 @@
 ## Executive Summary
 **iFood is the leading food delivery platform in Brazil**, surpassing American counterparts like DoorDash and Uber Eats. Founded in 2011, iFood connects restaurants, couriers, and customers through a seamless app experience, offering on-demand food and grocery delivery while **commanding over 80% of Brazil’s market share.** 
 
-The company's customer portfolio reveals that **55% of customers fall into low-engagement, At-Risk and Lost segments, with the Loyal Customer segment generating a significant portion of total revenue at 42%.** To maximize ROI, the Loyal Customer segment should be prioritized, as it generated an ROI of 3.9 across all campaigns.
+The majority of campaign respondents across the marketing campaigns were Loyal Customer (37%) and At Risk (27%) segments. The Loyal Customer segment generated a significant portion of total revenue at 47%. **To maximize ROI, the Loyal Customer segment should be prioritized, as it generated an ROI of 3.9 across all campaigns.** Future campaigns should incorporate the top demographic attributes of higher income, absence of family, and older age, which correlate to higher spend.
 
 The following sections will enhance customer profiling and explore ways to personalize marketing campaigns to inform targeting strategies and budget allocation.
 
@@ -28,7 +28,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 ## Insights Deep Dive
 ### Customer Segmentation
-* RFM analysis indicates that a **majority of customers fall within the At-Risk (43%) and Lost (12%) segments**, highlighting a significant decline in customer engagement and the need for targeted retention efforts.
+* The **majority of campaign respondents across the marketing campaigns were Loyal Customer (37%) and At Risk (27%) segments,** with the except of campaign 3 disproportionately targeting the At Risk (39%) segment.
 * While the Top Customer segment holds the highest Gross CLV of $1,303, the **Loyal Customer segment contributes the largest share of total revenue at 42%**. 
 * Despite Brazil’s strong cultural emphasis on family, regression analysis (R² = 0.71) shows that **higher income, absence of family, and older age are strongly associated with an increase in total customer spend.**
 
@@ -36,26 +36,24 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 ### Campaign Performance
 * Campaign respondents have an **average total spend of $1,023, which is 2.3 times greater than that of non-respondents.**
-* The **Loyal Customer segment has the highest share of campaign respondents at 37%**, followed by the At-Risk segment at 27%.
 * Overall performance across campaigns shows the **lowest CPC at $63 within the Loyal Customer segment**, while the Top Customer segment records a significantly higher CPC of $179.
 * •	Campaign 2 has the lowest return on investment of 0.5, whereas **Campaign 5 has the highest return on investment of 4.3.**
 
 ![Campaign_performance_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/Campaign_performance.png)
 
 ### Purchasing Behavior
-* Total customer spend on regular products is fairly stable across customer segments, resulting in a **total spend of 92% on regular products and 8% on premium products for campaign respondents.**
-* **Wine and meat are the most popular products across customer segments**, accounting for 54% and 29% of total purchases, respectively.
-* **Physical stores are the most preferred purchase channel at 46% across customer segments,** followed by website purchases at 33%.
-* Campaign respondents have a low affinity to discount purchases at 12% across customer segments while the **discount purchases accounts for 21% in non-respondents.**
+* Total customer spend on regular products is fairly stable across customer segments, resulting in a **total spend of 94% on regular products and 6% on premium products for campaign respondents.**
+* **Wine and meat are the most popular products across customer segments**, accounting for 59% and 28% of total purchases, respectively.
+* **Physical stores are the most preferred purchase channel at 42% across customer segments,** followed by website purchases at 32%.
 
 ![Purchasing_behavior_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/Purchasing_Behavior.png)
 
 ## Recommendations
 Based on the uncovered insights, the following recommendations have been provided:
-* With 55% of customers in the At-Risk and Lost segments, there is an **opportunity to diversify the customer portfolio by reactivating lapsed users and expanding engagement across underrepresented segments** through re-engagement campaigns, loyalty perks, or win-back offers.
-* **Target campaigns to the Loyal Customer segment featuring exclusive offers, referral incentives, and cross-sell opportunities** to effectively drive further growth and maximize return on investment, since this high-value segment drives 42% of revenue and maintains a low CPC of $63.
+* With nearly half (46%) of customers in the Promising and At-Risk segments, **targeted engagement strategies should be prioritized to prevent churn and nurture potential growth.**
+* **Target campaigns to the Loyal Customer segment featuring exclusive offers, referral incentives, and cross-sell opportunities** to effectively drive further growth and maximize return on investment, since this high-value segment drives 47% of revenue and maintains a low CPC of $63.
 * **Personalize marketing campaigns by leveraging key demographic drivers on customer spend – higher income, absence of family, and older age (R² = 0.71)** – while avoiding the low ROI (0.5) of Campaign 2 and following the success of the high ROI (4.3) of Campaign 5 by optimizing messaging, audience selection, and channel use to reduce CPC and improve conversion.
-* Opportunity to capitalize on the 46% customer preference in purchasing through physical stores by **enhancing in-store marketing and visibility with targeted signage, displays, and location-based promotions.**  
+* Opportunity to capitalize on the 42% customer preference in purchasing through physical stores by **enhancing in-store marketing and visibility with targeted signage, displays, and location-based promotions.**  
 
 ## Assumptions and Caveats
 Throughout the analysis, multiple assumptions were made to manage the challenges with the data. These assumptions and caveats are noted below:
