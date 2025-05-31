@@ -4,7 +4,7 @@
 ## Executive Summary
 **iFood is the leading food delivery platform in Brazil**, surpassing American counterparts like DoorDash and Uber Eats. Founded in 2011, iFood connects restaurants, couriers, and customers through a seamless app experience, offering on-demand food and grocery delivery while **commanding over 80% of Brazil’s market share.** 
 
-The majority of campaign respondents across the marketing campaigns were Loyal Customer (37%) and At Risk (27%) segments. The Loyal Customer segment generated a significant portion of total revenue at 47%. **To maximize ROI, the Loyal Customer segment should be prioritized, as it generated an ROI of 3.9 across all campaigns.** Future campaigns should incorporate the top demographic attributes of higher income, absence of family, and older age, which correlate to higher spend.
+The majority of campaign respondents across the marketing campaigns were Loyal Customer (37%) and At Risk (27%) segments. The Loyal Customer segment generated a significant portion of total revenue at 47%. **To maximize ROI, the Loyal Customer segment should be prioritized, as it generated an ROI of 3.1 across all campaigns.** Future campaigns should incorporate the top demographic attributes of higher income, absence of family, and older age, which correlate to higher spend.
 
 The following sections will enhance customer profiling and explore ways to personalize marketing campaigns to inform targeting strategies and budget allocation.
 
@@ -37,7 +37,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 ### Campaign Performance
 * Campaign respondents have an **average total spend of $1,023, which is 2.3 times greater than that of non-respondents.**
 * Overall performance across campaigns shows the **lowest CPC at $63 within the Loyal Customer segment**, while the Top Customer segment records a significantly higher CPC of $179.
-* •	Campaign 2 has the lowest return on investment of 0.5, whereas **Campaign 5 has the highest return on investment of 4.3.**
+* •	Campaign 2 has the lowest return on investment of -0.3, whereas **Campaign 5 has the highest return on investment of 3.5.**
 
 ![Campaign_performance_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/Campaign_performance.png)
 
@@ -52,7 +52,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 Based on the uncovered insights, the following recommendations have been provided:
 * With nearly half (46%) of customers in the Promising and At-Risk segments, **targeted engagement strategies should be prioritized to prevent churn and nurture potential growth.**
 * **Target campaigns to the Loyal Customer segment featuring exclusive offers, referral incentives, and cross-sell opportunities** to effectively drive further growth and maximize return on investment, since this high-value segment drives 47% of revenue and maintains a low CPC of $63.
-* **Personalize marketing campaigns by leveraging key demographic drivers on customer spend – higher income, absence of family, and older age (R² = 0.71)** – while avoiding the low ROI (0.5) of Campaign 2 and following the success of the high ROI (4.3) of Campaign 5 by optimizing messaging, audience selection, and channel use to reduce CPC and improve conversion.
+* **Personalize marketing campaigns by leveraging key demographic drivers on customer spend – higher income, absence of family, and older age (R² = 0.71)** – while avoiding the low ROI -0.3) of Campaign 2 and following the success of the high ROI (3.5) of Campaign 5 by optimizing messaging, audience selection, and channel use to reduce CPC and improve conversion.
 * Opportunity to capitalize on the 42% customer preference in purchasing through physical stores by **enhancing in-store marketing and visibility with targeted signage, displays, and location-based promotions.**  
 
 ## Assumptions and Caveats
