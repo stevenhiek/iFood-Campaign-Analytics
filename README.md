@@ -42,9 +42,9 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 ![Campaign_performance_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/Campaign_performance.png)
 
 ### Purchasing Behavior
-* Total customer spend on regular products is fairly stable across customer segments, resulting in a **total spend of 94% on regular products and 6% on premium products for campaign respondents.**
-* **Wine and meat are the most popular products across customer segments**, accounting for 59% and 28% of total purchases, respectively.
-* **Physical stores are the most preferred purchase channel at 42% across customer segments,** followed by website purchases at 32%.
+* Total customer spend on regular products is fairly stable across customer segments, resulting in a **total spend of 94% on regular products and 6% on premium products for campaign respondents.** This indicates limited traction for premium products and presents an opportunity to reassess pricing, positioning, or promotional strategies to boost premium product adoption.
+* As integral parts of Brazilian culture, **wine and meat are the most popular products across customer segments**, accounting for 59% and 28% of total purchases, respectively. This reveals an opportunity to deepen engagement through promotions, bundling, or loyalty programs centered around these core products.
+* **Physical stores are the most preferred purchase channel at 42% across customer segments,** suggesting a potential desire for immediate gratification or social interaction.
 
 ![Purchasing_behavior_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/Purchasing_Behavior.png)
 
