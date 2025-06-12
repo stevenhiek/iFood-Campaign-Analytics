@@ -37,7 +37,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 ### Campaign Performance
 * Campaign respondents have an **average total spend of $1,023, which is 2.3 times greater than that of non-respondents**, indicating that campaign engagement is strongly associated with higher customer spend.
 * Overall performance across campaigns shows the **lowest CPC at $63 within the Loyal Customer segment**, reinforcing its status as a high-value, cost-efficient segment. In contrast, while the Top Customer segment has the highest CLV, its CPC is nearly 3x higher at $179, indicating lower cost-efficiency.
-* Campaign 2 underperformed with an ROI of -0.3, indicating a loss on investment. While **Campaign 5 delivered the strongest return at 3.5**, suggesting effective targeting or messaging strategies that should be analyzed and potentially replicated.
+* Campaign 2 underperformed with an ROI of -0.3, indicating a loss on investment. **Campaign 5 delivered the strongest return at 3.5**, suggesting effective targeting or messaging strategies that should be analyzed and potentially replicated.
 
 ![Campaign_performance_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/Campaign_performance.png)
 
