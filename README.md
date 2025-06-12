@@ -4,7 +4,7 @@
 ## Executive Summary
 **iFood is the leading food delivery platform in Brazil**, surpassing American counterparts like DoorDash and Uber Eats. Founded in 2011, iFood connects restaurants, couriers, and customers through a seamless app experience, offering on-demand food and grocery delivery while **commanding over 80% of Brazil’s market share.** 
 
-The majority of campaign respondents across the marketing campaigns were Loyal Customer (37%) and At Risk (27%) segments. The Loyal Customer segment generated a significant portion of total revenue at 47%. **To maximize return on investment (ROI), the Loyal Customer segment should be prioritized, as it generated an ROI of 3.1 across all campaigns.** Future campaigns should incorporate the top demographic attributes of higher income, absence of family, and older age, which correlate to higher spend.
+The Recency, Frequency, Monetary (RFM) Model is used to group customers by purchasing behavior: Top Customer, Loyal Customer, Promising, At-Risk, and Lost customer segments. The majority of campaign respondents across the marketing campaigns were Loyal Customer (37%) and At Risk (27%) segments. The Loyal Customer segment generated a significant portion of total revenue at 47%. **To maximize return on investment (ROI), the Loyal Customer segment should be prioritized, as it generated an ROI of 3.1 across all campaigns.** Future campaigns should incorporate the top demographic attributes of higher income, absence of family, and older age, which correlate to higher spend.
 
 The following sections will enhance customer profiling and explore ways to personalize marketing campaigns to inform targeting strategies and budget allocation.
 
@@ -28,23 +28,23 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 ## Insights Deep Dive
 ### Customer Segmentation
-* The **majority of campaign respondents across the marketing campaigns were Loyal Customer (37%) and At Risk (27%) segments,** with the except of campaign 3 disproportionately targeting the At Risk (39%) segment.
-* While the Top Customer segment holds the highest Gross CLV of $1,303, the **Loyal Customer segment contributes the largest share of total revenue at 42%**. 
+* The **majority of campaign respondents across the marketing campaigns were from the Loyal Customer segment (37%),** indicating strong campaign appeal to this segment. Campaign 3 stood out by disproportionately attracting the At-Risk segment (39%), highlighting a potential opportunity to explore effective engagement strategies for this segment.
+* While the Top Customer segment holds the highest Gross CLV of $1,303, the **Loyal Customer segment contributes the largest share of total revenue at 42%**. Given strong campaign response by the Loyal Customer segment, there is an opportunity to further capitalize on engagement with this segment.
 * Despite Brazil’s strong cultural emphasis on family, regression analysis (R² = 0.71) shows that **higher income, absence of family, and older age are strongly associated with an increase in total customer spend.**
 
 ![Customer_segmentation_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/Customer_demographics.png)
 
 ### Campaign Performance
-* Campaign respondents have an **average total spend of $1,023, which is 2.3 times greater than that of non-respondents.**
-* Overall performance across campaigns shows the **lowest CPC at $63 within the Loyal Customer segment**, while the Top Customer segment records a significantly higher CPC of $179.
-* •	Campaign 2 has the lowest ROI of -0.3, whereas **Campaign 5 has the highest ROI of 3.5.**
+* Campaign respondents have an **average total spend of $1,023, which is 2.3 times greater than that of non-respondents**, indicating that campaign engagement is strongly associated with higher customer spend.
+* Overall performance across campaigns shows the **lowest CPC at $63 within the Loyal Customer segment**, reinforcing its status as a high-value, cost-efficient segment. In contrast, while the Top Customer segment has the highest CLV, its CPC is nearly 3x higher at $179, indicating lower cost-efficiency.
+* Campaign 2 underperformed with an ROI of -0.3, indicating a loss on investment. **Campaign 5 delivered the strongest return at 3.5**, suggesting effective targeting or messaging strategies that should be analyzed and potentially replicated.
 
 ![Campaign_performance_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/Campaign_performance.png)
 
 ### Purchasing Behavior
-* Total customer spend on regular products is fairly stable across customer segments, resulting in a **total spend of 94% on regular products and 6% on premium products for campaign respondents.**
-* **Wine and meat are the most popular products across customer segments**, accounting for 59% and 28% of total purchases, respectively.
-* **Physical stores are the most preferred purchase channel at 42% across customer segments,** followed by website purchases at 32%.
+* Total customer spend on regular products is fairly stable across customer segments, resulting in a **total spend of 94% on regular products and 6% on premium products for campaign respondents.** This indicates limited traction for premium products and presents an opportunity to reassess pricing, positioning, or promotional strategies to boost premium product adoption.
+* As integral parts of Brazilian culture, **wine and meat are the most popular products across customer segments**, accounting for 59% and 28% of total purchases, respectively. This reveals an opportunity to deepen engagement through promotions, bundling, or loyalty programs centered around these core products.
+* **Physical stores are the most preferred purchase channel at 42% across customer segments,** suggesting a potential desire for immediate gratification or social interaction.
 
 ![Purchasing_behavior_pic](https://github.com/stevenhiek/iFood-Campaign-Analytics/blob/main/Charts%2C%20Graphs%2C%20and%20Other/Purchasing_Behavior.png)
 
@@ -57,7 +57,7 @@ Based on the uncovered insights, the following recommendations have been provide
 
 ## Assumptions and Caveats
 Throughout the analysis, multiple assumptions were made to manage the challenges with the data. These assumptions and caveats are noted below:
-* Sample data is representative of the iFood’s customer base as a whole. 
+* Used food delivery industry standard profit margin of 20% to help calculate return on investment.
 * Campaigns costs were the same across campaigns since data does not have campaign costs; campaign cost dummy variable was used to help illustrate cost per campaign conversion. 
 * Gross customer lifetime value was used instead of customer lifetime value with profit per customer.
 * Used a combined RFM score to create broader segments rather than concatenating recency, frequency, and monetary to create granular classifications.
