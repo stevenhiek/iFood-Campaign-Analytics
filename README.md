@@ -28,7 +28,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 ## Insights Deep Dive
 ### Customer Segmentation
-* The **majority of campaign respondents across the marketing campaigns were Loyal Customer (37%) and At Risk (27%) segments,** with the except of campaign 3 disproportionately targeting the At Risk (39%) segment.
+* The **majority of campaign respondents across the marketing campaigns were Loyal Customer (37%) and At Risk (27%) segments,** with the exception of campaign 3 disproportionately targeting the At Risk (39%) segment.
 * While the Top Customer segment holds the highest Gross CLV of $1,303, the **Loyal Customer segment contributes the largest share of total revenue at 42%**. 
 * Despite Brazil’s strong cultural emphasis on family, regression analysis (R² = 0.71) shows that **higher income, absence of family, and older age are strongly associated with an increase in total customer spend.**
 
